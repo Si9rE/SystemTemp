@@ -1,7 +1,8 @@
 public class Notes : MonoBehaiviour
 {
     // Notes speed adjust
-    int NoteSpeed = 5;
+    int value = 3.0;
+    int NoteSpeed = value ;
     void update()
     {
         // Notes Moving
